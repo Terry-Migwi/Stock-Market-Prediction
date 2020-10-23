@@ -15,7 +15,7 @@ The project contains Exploratory Data Analysis for the three companies, to analy
 
   
  ## Installation Requirements
-1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Core-Week-13-IP.git
+1. Clone the repo by running: git clone https://github.com/Terry-Migwi/Stock-Market-Prediction.git
 
 2. Navigate to the project directory: cd pandas
 
